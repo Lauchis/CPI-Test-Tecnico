@@ -1,0 +1,32 @@
+.btn-primary {
+  --bs-btn-color: var(--bs-cyan);
+}
+
+.text-primary {
+  text-decoration: none;
+}
+
+.card-subtitle {
+  color: var(--bs-cyan);
+}
+
+/* si quiero las imagenes más chicas en el slider
+.carousel-inner > .carousel-item > img {
+    object-fit: scale-down;
+    height: 50vh;
+    width: 100%;
+  } */
+
+.hero-content {
+  padding: 50px;
+}
+
+.text-button {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.form1 {
+  padding: 50 px;
+  margin: 50px;
+}
